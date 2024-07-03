@@ -1,0 +1,39 @@
+.he1{
+    color: rgb(20, 19, 19);
+    background-color: rgb(193, 250, 250);
+    font-size:xx-large;
+    font-weight: bold;
+}
+.he2{
+    color:rgb(230, 198, 81);
+}
+.he3{
+    color: azure;
+}
+.d1{
+
+    background-image: url(../image/2.jpg);
+}
+.p1{
+    color:azure;
+    padding:2% 2%;
+}
+.b1{
+    background-color: rgb(226, 195, 43);
+    width: 150px;
+    height: 50px;
+    color:azure;
+}
+.b2{
+    background-color:rgb(14, 112, 151);
+    width: 150px;
+    height: 50px;
+    color: azure;
+}
+.l1{
+    list-style-type: none;
+    boder
+}
+body{
+    background-image: url(../image/3.jpg);
+}
